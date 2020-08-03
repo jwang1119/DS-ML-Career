@@ -1,4 +1,3 @@
-Last update: 11/16/2018
 Edit from: https://github.com/AllenCX/DS-ML-Interview-Questions/edit/master/cheetsheet.md
 To be a good DS or MLE, you have to answer most of these questions below quickly and precisely.
 
