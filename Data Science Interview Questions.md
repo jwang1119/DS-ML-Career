@@ -1,4 +1,23 @@
-Edit from: https://github.com/AllenCX/DS-ML-Interview-Questions/edit/master/cheetsheet.md
+Edited from: https://github.com/Shujian2015/FreeML#--lists-with-solutions
+
+## Lists with Solutions:
+- 111 Data Science Interview Questions & Detailed Answers: [Link](https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+- 40 Interview Questions asked at Startups in Machine Learning / Data Science [Link](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+- 100 Data Science Interview Questions and Answers (General) for 2017 [Link](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2017/184?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+- 21 Must-Know Data Science Interview Questions and Answers [Link](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+- 45 Questions to test a data scientist on basics of Deep Learning (along with solution) [Link](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+- 30 Questions to test a data scientist on Natural Language Processing [Link](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+- Questions on Stackoverflow: [Link](https://stackoverflow.com/questions/tagged/machine-learning?sort=votes&pageSize=15)
+- Compare two models: [My collection](https://www.linkedin.com/pulse/ml-2-shujian-liu/)
+
+## Without Solutions:
+- Over 100 Data Science Interview Questions [Link](http://www.learndatasci.com/data-science-interview-questions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+- 20 questions to detect fake data scientists [Link](https://www.import.io/post/20-questions-to-detect-fake-data-scientists/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+- Question on Glassdoor: [link](https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14.htm)
+
+-----------------------------------------------------------------------------------------
+
+Edited from: https://github.com/AllenCX/DS-ML-Interview-Questions/edit/master/cheetsheet.md
 
 To be a good DS or MLE, you have to answer most of these questions below quickly and precisely.
 
