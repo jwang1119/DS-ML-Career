@@ -1,7 +1,7 @@
 Re-edited from [here](https://github.com/Shujian2015/FreeML#--lists-with-solutions)
 
 ## Lists with Solutions:
-- [100 Data Science Interview Questions You Must Prepare](100+ Data Science Interview Questions You Must Prepare for 2020)
+- [100 Data Science Interview Questions You Must Prepare](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 - [111 Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
 - [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
 - [100 Data Science Interview Questions and Answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2017/184?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
