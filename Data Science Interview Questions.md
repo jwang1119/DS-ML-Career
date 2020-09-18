@@ -1,4 +1,4 @@
-Some content was re-edited from [here](https://github.com/Shujian2015/FreeML#--lists-with-solutions)
+Some content was re-edited from [here](https://github.com/Shujian2015/FreeML#--lists-with-solutions).
 
 ## Lists with Solutions:
 - [100 Data Science Interview Questions You Must Prepare](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
@@ -17,7 +17,7 @@ Some content was re-edited from [here](https://github.com/Shujian2015/FreeML#--l
 
 -----------------------------------------------------------------------------------------
 
-Edited from [here](https://github.com/AllenCX/DS-ML-Interview-Questions/edit/master/cheetsheet.md)
+Edited from [here](https://github.com/AllenCX/DS-ML-Interview-Questions/edit/master/cheetsheet.md).
 
 To be a good DS or MLE, you have to answer most of these questions below quickly and precisely.
 
