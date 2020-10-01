@@ -1,4 +1,4 @@
-Some content was re-edited from [here](https://github.com/Shujian2015/FreeML#--lists-with-solutions).
+Some content was cited from [here](https://github.com/Shujian2015/FreeML#--lists-with-solutions).
 
 ## Lists with Solutions:
 - [120 Data Science Interview Questions](https://github.com/JifuZhao/120-DS-Interview-Questions)
