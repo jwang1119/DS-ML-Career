@@ -1,6 +1,7 @@
 Some content was cited from [here](https://github.com/Shujian2015/FreeML#--lists-with-solutions).
 
 ## Lists with Solutions:
+- [120+ Data Scientist Interview Questions and Answers You Should Know in 2021](https://towardsdatascience.com/120-data-scientist-interview-questions-and-answers-you-should-know-in-2021-b2faf7de8f3e)
 - [120 Data Science Interview Questions](https://github.com/JifuZhao/120-DS-Interview-Questions)
 - [100 Data Science Interview Questions You Must Prepare](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 - [111 Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
