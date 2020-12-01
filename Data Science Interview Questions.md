@@ -1,4 +1,4 @@
-Some content was cited from [here](https://github.com/Shujian2015/FreeML#--lists-with-solutions).
+Partialy cited from [here](https://github.com/Shujian2015/FreeML#--lists-with-solutions).
 
 ## Lists with Solutions:
 - [120+ Data Scientist Interview Questions and Answers You Should Know in 2021](https://towardsdatascience.com/120-data-scientist-interview-questions-and-answers-you-should-know-in-2021-b2faf7de8f3e)
