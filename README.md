@@ -7,3 +7,4 @@ Interesting stuff about data science.
 - [Jiawei's Data Scientist Roadmap](https://drive.google.com/file/d/1YnmbwNP2nok_WYDc_i1reU2OlulnuRUn/view?usp=sharing)
 - [Data Science Interview Questions](https://github.com/jwang1119/DS-ML-Interviews/blob/master/Data%20Science%20Interview%20Questions.md)
 - [The Elements of Style](https://github.com/jwang1119/DS-ML-Interviews-and-Career/blob/master/The%20Elements%20of%20Style.pdf)
+- [Practical Statistics for Data Scientists 50  Essential Concepts Using R and Python](https://github.com/jwang1119/DS-ML-Career/blob/master/Practical%20Statistics%20for%20Data%20Scientists%2050%20%20Essential%20Concepts%20Using%20R%20and%20Python.pdf)
