@@ -16,6 +16,8 @@ Partialy cited from [here](https://github.com/Shujian2015/FreeML#--lists-with-so
 - [Over 100 Data Science Interview Questions](http://www.learndatasci.com/data-science-interview-questions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
 - [20 questions to detect fake data scientists](https://www.import.io/post/20-questions-to-detect-fake-data-scientists/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
 - [Question on Glassdoor](https://www.glassdoor.com/Interview/data-scientist-interview-questions-SRCH_KO0,14.htm)
+- [ML Questions 1](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=713903&page=1#pid14951878)
+- [ML Questions 2](https://www.1point3acres.com/bbs/thread-714090-1-1.html)
 
 -----------------------------------------------------------------------------------------
 
