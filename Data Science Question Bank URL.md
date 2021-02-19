@@ -11,6 +11,7 @@ Partialy cited from [here](https://github.com/Shujian2015/FreeML#--lists-with-so
 - [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
 - [45 Questions to test a data scientist on basics of Deep Learning (along with solution)](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
 - [30 Questions to test a data scientist on Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+- [MLE Interview Questions](https://drive.google.com/file/d/1bG0mK4MrOPqd2Fabm50Bi3M7fki2ylcP/view?usp=sharing)
 - [Questions on Stackoverflow](https://stackoverflow.com/questions/tagged/machine-learning?sort=votes&pageSize=15)
 
 ## Without Solutions:
