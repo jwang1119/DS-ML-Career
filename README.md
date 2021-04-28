@@ -1,6 +1,7 @@
 # Resources
 Interesting stuff about data science.
 - [AI Career Pathways 2020](https://github.com/jwang1119/DS-ML-Interviews-and-Career/blob/master/AI%20Career%20Pathways%202020.pdf)
+- [A Practical Guide To Quantitative Finance Interview](https://drive.google.com/file/d/1yVrVLO9cebwD6Nfy-EVXs2e4m8Hom2sX/view?usp=sharing)
 - [Case in Point 10th Edition](https://github.com/jwang1119/DS-ML-Interviews-and-Career/blob/master/Case%20in%20Point%2010th%20Edition.pdf)
 - [Cracking the PM Interview](https://github.com/jwang1119/DS-ML-Interviews-and-Career/blob/master/Cracking%20the%20PM%20Interview%20How%20to%20Land%20a%20Product%20Manager%20Job%20in%20Technology.pdf)
 - [Data Science Interview Questions URL](https://github.com/jwang1119/DS-ML-Career/blob/master/Data%20Science%20Question%20Bank%20URL.md)
