@@ -7,7 +7,6 @@ Partialy cited from [here](https://github.com/Shujian2015/FreeML#--lists-with-so
 - [100 Data Science Interview Questions You Must Prepare](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 - [111 Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
 - [100 Data Science Interview Questions and Answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2017/184?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
-- [45 Questions to test a data scientist on basics of Deep Learning (along with solution)](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
 - [30 Questions to test a data scientist on Natural Language Processing](https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
 - [MLE Interview Questions](https://drive.google.com/file/d/1bG0mK4MrOPqd2Fabm50Bi3M7fki2ylcP/view?usp=sharing)
 - [Questions on Stackoverflow](https://stackoverflow.com/questions/tagged/machine-learning?sort=votes&pageSize=15)
